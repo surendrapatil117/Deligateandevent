@@ -16,7 +16,7 @@ namespace Delegateandevent
             x.sender += reciver;
             x.sender += reciver1;
             x.sender += reciver2;
-            //x.sender = null;
+            //x.sender = null;we can use  += for subscribe and  we can use -= to unsubscribe
             Thread t = new Thread(new ThreadStart(x.Longtaskmethod));
             t.Start();
             Console.WriteLine("Program.cs");
