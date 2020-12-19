@@ -1,0 +1,7 @@
+C:\Users\surendra\source\repos\Delegateandevent\bin\Debug\Delegateandevent.exe.config
+C:\Users\surendra\source\repos\Delegateandevent\bin\Debug\Delegateandevent.exe
+C:\Users\surendra\source\repos\Delegateandevent\bin\Debug\Delegateandevent.pdb
+C:\Users\surendra\source\repos\Delegateandevent\obj\Debug\Delegateandevent.csprojAssemblyReference.cache
+C:\Users\surendra\source\repos\Delegateandevent\obj\Debug\Delegateandevent.csproj.CoreCompileInputs.cache
+C:\Users\surendra\source\repos\Delegateandevent\obj\Debug\Delegateandevent.exe
+C:\Users\surendra\source\repos\Delegateandevent\obj\Debug\Delegateandevent.pdb
