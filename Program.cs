@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace Delegateandevent
 {
+    /* Deligate are used in a parallel/Async programming for callback function
+       Multicast deligate are used to send the message to multiple methods.
+      We can achive Observer design pattern by using deligates
+      also we can achive PURE Publisher Subscriber Machanism.
+      Deligate are pointer to function  */
     class Program
     {
         //PURE Publisher Subscriber Machanism
